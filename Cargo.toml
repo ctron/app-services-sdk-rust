@@ -1,0 +1,9 @@
+[workspace]
+# commented out members, see generate.sh script
+members = [
+    # "packages/rhoas-connector-management-sdk",
+    "packages/rhoas-kafka-instance-sdk",
+    "packages/rhoas-kafka-management-sdk",
+    # "packages/rhoas-registry-instance-sdk",
+    "packages/rhoas-registry-management-sdk",
+]
